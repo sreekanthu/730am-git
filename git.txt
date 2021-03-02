@@ -1,1 +1,2 @@
 Hi This is my first git file
+added user in git config file
